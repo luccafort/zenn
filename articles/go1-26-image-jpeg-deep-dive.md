@@ -3,7 +3,8 @@ title: "Go 1.26 Draft Release Noteからimage/jpegを読み解く"
 emoji: "🎄"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Go", "image", "jpeg"]
-published: false
+published: true
+published_at: 2025-12-10 00:00
 ---
 
 本記事は[Money Forward Kansai Advent Calendar 2025](https://adventar.org/calendars/11342) 12月10日の記事です。
