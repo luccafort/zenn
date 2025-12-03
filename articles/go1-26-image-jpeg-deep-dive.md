@@ -2,7 +2,7 @@
 title: "Go 1.26 Draft Release Noteからimage/jpegを読み解く"
 emoji: "🎄"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Go", "image/jpeg"]
+topics: ["Go", "image", "jpeg"]
 published: false
 ---
 
