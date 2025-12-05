@@ -8,11 +8,11 @@ published_at: 2025-12-02 00:00
 ---
 
 本記事は[Money Forward Kansai Advent Calendar 2025](https://adventar.org/calendars/11342) 12月10日の記事です。
-前回の記事はnagamoさんの「TODO:公開後に置き換え予定」でした。
+前回の記事はT45Kさんの「[Koogで始めるA2Aプロトコル](https://zenn.dev/t45k/articles/0fcfc8ca7aff3c)」でした。
 
 ## 突然ですが本日が誕生日です
 
-本日12月10日でめでたく（？）40歳の節目を迎えることになりました[@luccafort](https://x.com/luccafort)です。
+来週12月10日でめでたく（？）40歳の節目を迎えることになりました[@luccafort](https://x.com/luccafort)です。
 現代社会の人生がおよそ80年ほどであることを考えるとようやく折り返し地点というべきか、もう折り返し地点というべきか悩み始めています。
 
 少しでもこの記事がよいと感じたら「バッジを贈る」から皆さんの支援をお願いします。
